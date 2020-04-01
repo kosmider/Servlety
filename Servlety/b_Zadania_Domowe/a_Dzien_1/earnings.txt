@@ -1,0 +1,8 @@
+Marek;Kowalski;10000.0;umowaopracę
+Kowalska, Ania B.; 10011.0 zł; zlecenie
+Nowak, Jan, 9325.0 zł; zlecenie
+Nowak, Janina, 9322.0 zł; zlecenie
+Pierzak, Jan, 9321.0 zł; zlecenie
+eksport danych
+Pietrzak, Janina, 9322.0 zł; zlecenie
+Woźniak, Marek, 12232.23; zlecenie
